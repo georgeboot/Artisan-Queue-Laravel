@@ -11,8 +11,8 @@ For example
     // equivalent to php artisan migrate:refresh
     Queue::artisan('migrate:refresh') // for whatever reason you want to queue this command
 
-    // equivalent for php artisan yourOwnCommand:task parameter=value --optional=optionalValue
-    Queue::artisan('yourOwnCommand:task', array('parameter' => 'value', '--optional' => 'optionalValue'))
+    // equivalent for php artisan your-own-command:task parameter=value --optional=optionalValue
+    Queue::artisan('your-own-command:task', array('parameter' => 'value', '--optional' => 'optionalValue'))
 
 # Installation
 
