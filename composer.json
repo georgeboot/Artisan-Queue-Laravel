@@ -16,5 +16,10 @@
             "Aveley\\Artisanqueue": "src/"
         }
     },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0"
+        }
+    },
     "minimum-stability": "dev"
 }
