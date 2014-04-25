@@ -1,6 +1,6 @@
 {
     "name": "aveley/artisan-queue",
-    "description": "",
+    "description": "Queue artisan commands for later execution",
     "authors": [
         {
             "name": "Luuk Holleman",
@@ -16,5 +16,5 @@
             "Aveley\\Artisanqueue": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
