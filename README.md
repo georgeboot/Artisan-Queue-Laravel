@@ -1,6 +1,6 @@
 # Queue Artisan commands in Laravel
 
-Adds a command to place artisan commands in the queue.
+Adds a method to place artisan commands in the queue.
 
 # Usage
 
