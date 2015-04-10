@@ -7,7 +7,7 @@ namespace Aveley\Artisanqueue;
  *
  * @package Aveley\Artisanqueue
  */
-class Queue extends Illuminate\Support\Facades\Queue {
+class Queue extends \Illuminate\Support\Facades\Queue {
     /**
      * Queue the artisan command
      *
